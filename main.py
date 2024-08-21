@@ -9,7 +9,7 @@ from telethon.tl.functions.account import CheckUsernameRequest
 from telethon.tl.functions.channels import UpdateUsernameRequest, DeleteChannelRequest, CreateChannelRequest
 from bs4 import BeautifulSoup as S
 
-YrUsername = "@arageDoctor" # يوزر حسابك التلي
+YrUsername = "@rrageDoctor" # يوزر حسابك التلي
 
 def usernames():
     k = ''.join(choice('qwertyuiopasdfghjklzxcvbnm') for i in range(1))
